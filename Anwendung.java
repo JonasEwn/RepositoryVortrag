@@ -8,6 +8,8 @@ public class Anwendung {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Anwendung.class, args);
+		
+		// Wird dieser Kommentar angezeigt oder nicht 
 	}
 
 }
